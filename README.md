@@ -8,8 +8,7 @@
 ---
 
 ## 🌐 **Demo en línea**
-👉 [Ver proyecto desplegado](https://my-super-catalogue.vercel.app)  
-*(Puedes reemplazar este enlace con el de tu Vercel o Netlify)*
+👉 [Abrir proyecto en GitHub Pages](https://ccaceres17.github.io/My-super-catalogue/)
 
 ---
 
